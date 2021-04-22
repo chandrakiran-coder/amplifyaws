@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn node
+          Learn angular
         </a>
       </header>
     </div>
